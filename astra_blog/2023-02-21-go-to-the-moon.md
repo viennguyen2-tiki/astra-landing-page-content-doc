@@ -12,4 +12,4 @@ authors:
 ---
 G﻿o to the moon
 
-![Astra chain](/img/icon.png "Astra chain")
+![Astra chain](/img/uploads/bg_docs.png "Astra chain")
