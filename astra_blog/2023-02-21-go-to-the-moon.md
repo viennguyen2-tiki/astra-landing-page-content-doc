@@ -1,7 +1,7 @@
 ---
 title: Go to the moon
 slug: go-the-zoo
-thumbnail: /img/docusaurus.png
+thumbnail: /img/uploads/about-astar.png
 tags:
   - Announcements
 authors:
